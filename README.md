@@ -5,7 +5,7 @@ Deployed on [Microsoft Azure cloud](https://azure.microsoft.com/en-us/free/?WT.m
 
 **Azure** - [sign up today](https://azure.microsoft.com/en-us/free/?WT.mc_id=devto-blog-adpolak) for a free account with $200 in Azure credits to try out any combination of services.
 
-:video_game: [Play the game](https://urish.github.io/valentines-vr)
+:video_game: [Play the game](https://staticwebpageadi.z5.web.core.windows.net/)
 
 ## License
 
