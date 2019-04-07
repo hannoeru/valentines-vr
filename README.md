@@ -1,9 +1,11 @@
-# valetines-vr
+# Valetines-MR
 
 A small heart-collecting game live-coded during [IoT Makers Meetup](https://www.meetup.com/IoT-Makers-Israel/events/257266871/) using [A-Frame](https://aframe.io). 
-Deployed on Azure [sign up today](https://azure.microsoft.com/en-us/free/?WT.mc_id=devto-blog-adpolak) for a free account with $200 in Azure credits to try out any combination of services.
+Deployed on [Microsoft Azure cloud](https://azure.microsoft.com/en-us/free/?WT.mc_id=devto-blog-adpolak).
 
-[Play the game](https://urish.github.io/valentines-vr)
+**Azure** - [sign up today](https://azure.microsoft.com/en-us/free/?WT.mc_id=devto-blog-adpolak) for a free account with $200 in Azure credits to try out any combination of services.
+
+:video_game: [Play the game](https://urish.github.io/valentines-vr)
 
 ## License
 
