@@ -1,0 +1,23 @@
+{
+  "name": "valentines-vr",
+  "version": "1.0.0",
+  "description": "A small heart-collecting game live-coded during [IoT Makers Meetup](https://www.meetup.com/IoT-Makers-Israel/events/257266871/) using [A-Frame](https://aframe.io).  Deployed on [Microsoft Azure cloud](https://azure.microsoft.com/en-us/free/?WT.mc_id=devto-blog-adpolak).",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server web"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adipola/valentines-vr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adipola/valentines-vr/issues"
+  },
+  "homepage": "https://github.com/adipola/valentines-vr#readme",
+  "dependencies": {
+    "web": "0.0.2"
+  }
+}
