@@ -7,7 +7,7 @@ Full Tutorial with line by line instruction, [here](https://dev.to/azure/how-to-
 
 **Azure** - [sign up today](https://azure.microsoft.com/en-us/free/?WT.mc_id=valentines-github-adpolak) for a free account with $200 in Azure credits to try out any combination of services.
 
-:video_game: [Play the game](https://staticwebpageadi.z5.web.core.windows.net/)
+:video_game: [Play the game](https://adipola.github.io/valentines-vr/web/index.html)
 
 ## License
 
