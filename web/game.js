@@ -2,6 +2,7 @@ const sceneEl = document.querySelector("a-scene")
 const heartEl = document.querySelector("#heart-model")
 const scoreEl = document.querySelector('#score-element')
 
+// ランダム位置を生成
 function randomPosition() {
   return {
     x: (Math.random() - 0.5) * 20,
@@ -10,12 +11,15 @@ function randomPosition() {
   };
 }
 
+// スコア
 let score = 0
 
+// スコア表示
 function displayScore() {
   scoreEl.setAttribute('value', `Score: ${score}`);
 }
 
+// ハート生成
 function createHeart(){
   const clone = heartEl.cloneNode()
   clone.setAttribute("position", randomPosition())
@@ -31,8 +35,10 @@ function createHeart(){
   sceneEl.appendChild(clone)
 }
 
+// 最初に15個のハートを生成する
 for (let i=0 ; i<15; i++) {
   createHeart()
 }
 
+// スコア表示
 displayScore()
